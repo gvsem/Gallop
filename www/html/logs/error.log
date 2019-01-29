@@ -1,0 +1,77 @@
+[2018-08-03 17:26:51] Solver.ERROR: "error" does not match the response format  
+[2018-08-03 17:28:37] Solver.ERROR: "error" does not match the response format  
+[2018-08-03 19:55:44] Solver.ERROR: routeTimetable: error from api  
+[2018-08-03 19:55:44] Solver.ERROR: terminating routeTimetable  
+[2018-08-03 20:03:39] Solver.ERROR: routeTimetable: error from api  
+[2018-08-03 20:03:39] Solver.ERROR: terminating routeTimetable  
+[2018-08-03 20:03:46] Solver.ERROR: routeTimetable: error from api  
+[2018-08-03 20:03:46] Solver.ERROR: terminating routeTimetable  
+[2018-08-03 20:04:01] Solver.ERROR: routeTimetable: error from api  
+[2018-08-03 20:04:01] Solver.ERROR: terminating routeTimetable  
+[2018-08-03 20:18:41] Solver.ERROR: routeTimetable: error from api  
+[2018-08-03 20:18:41] Solver.ERROR: terminating routeTimetable  
+[2018-08-05 12:57:15] Solver.ERROR: Google Connection error. Trying with coordsOpen...  ["PLWRA"] 
+[2018-08-05 13:13:56] Solver.ERROR: Google Connection error. Trying with coordsOpen...  ["CZPRG"] 
+[2018-08-05 16:39:13] Solver.ERROR: Google Connection error. Trying with coordsOpen...  ["Sopot"] 
+[2018-08-05 18:21:06] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Gdańsk bus station"] 
+[2018-08-05 18:22:45] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Gdańsk bus station"] 
+[2018-08-05 18:27:12] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Gdańsk bus station"] 
+[2018-08-05 18:30:17] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Gdańsk bus station"] 
+[2018-08-05 18:38:03] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Gdańsk bus station"] 
+[2018-08-05 18:39:27] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Gdańsk bus station"] 
+[2018-08-05 18:39:48] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Gdańsk bus station"] 
+[2018-08-06 21:07:39] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3002,"codeKey":"TOKEN_EXPIRED","message":"Token Expired. Generate a new token using /auth.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 21:09:59] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3002,"codeKey":"TOKEN_EXPIRED","message":"Token Expired. Generate a new token using /auth.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 21:10:45] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3002,"codeKey":"TOKEN_EXPIRED","message":"Token Expired. Generate a new token using /auth.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 21:18:21] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Prague"] 
+[2018-08-06 21:25:25] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Warsaw"] 
+[2018-08-06 21:27:48] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Warsaw"] 
+[2018-08-06 21:28:27] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Prague"] 
+[2018-08-06 21:45:31] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Prague"] 
+[2018-08-06 21:45:38] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Warsaw"] 
+[2018-08-06 21:47:29] Solver.ERROR: Nominatim Connection error. Trying with Google... ["Warsaw"] 
+[2018-08-06 22:44:01] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2003,"codeKey":"INVALID_QUERY","message":"Invalid query parameter combination.","status":422,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 22:55:26] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 23:00:42] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2003,"codeKey":"INVALID_QUERY","message":"Invalid query parameter combination.","status":422,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 23:00:42] Solver.ERROR: terminating routeTimetable  
+[2018-08-06 23:03:03] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 23:12:07] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 23:12:07] Solver.ERROR: terminating routeTimetable  
+[2018-08-06 23:19:44] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 23:19:44] Solver.ERROR: terminating routeTimetable  
+[2018-08-06 23:41:27] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 23:42:06] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 23:58:07] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 23:58:07] Solver.ERROR: terminating routeTimetable  
+[2018-08-06 23:58:46] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-06 23:58:46] Solver.ERROR: terminating routeTimetable  
+[2018-08-07 15:14:57] Solver.ERROR: Google Connection error. Trying again...  ["Gdansk"] 
+[2018-08-07 15:31:37] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-07 15:48:18] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3000,"codeKey":"UNAUTHORIZED","message":"Unauthenticated Request.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-07 15:48:18] Solver.ERROR: terminating routeTimetable  
+[2018-08-07 16:43:29] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2003,"codeKey":"INVALID_QUERY","message":"Invalid query parameter combination.","status":422,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-07 17:00:10] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2003,"codeKey":"INVALID_QUERY","message":"Invalid query parameter combination.","status":422,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-07 17:00:10] Solver.ERROR: terminating routeTimetable  
+[2018-08-07 23:01:15] Solver.ERROR: Google Connection error. Trying again...  ["Warsaw"] 
+[2018-08-09 00:42:36] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3002,"codeKey":"TOKEN_EXPIRED","message":"Token Expired. Generate a new token using /auth.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-09 00:44:38] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3002,"codeKey":"TOKEN_EXPIRED","message":"Token Expired. Generate a new token using /auth.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-09 00:45:50] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3002,"codeKey":"TOKEN_EXPIRED","message":"Token Expired. Generate a new token using /auth.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 12:13:52] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":3002,"codeKey":"TOKEN_EXPIRED","message":"Token Expired. Generate a new token using /auth.","status":401,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 12:13:53] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2101,"codeKey":"STATIONS_NOT_FOUND","message":"Station(s) Not Found.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 12:13:53] Solver.ERROR: terminating routeTimetable  
+[2018-08-11 12:14:02] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2101,"codeKey":"STATIONS_NOT_FOUND","message":"Station(s) Not Found.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 12:14:03] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2101,"codeKey":"STATIONS_NOT_FOUND","message":"Station(s) Not Found.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 12:14:03] Solver.ERROR: terminating routeTimetable  
+[2018-08-11 12:16:53] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2106,"codeKey":"ORIGIN_STATIONS_NOT_FOUND","message":"No Origin Stations found for search query.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 12:16:53] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2106,"codeKey":"ORIGIN_STATIONS_NOT_FOUND","message":"No Origin Stations found for search query.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 12:16:53] Solver.ERROR: terminating routeTimetable  
+[2018-08-11 19:21:23] Solver.ERROR: Google Connection error. Trying again...  ["Tallinn"] 
+[2018-08-11 19:21:35] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2101,"codeKey":"STATIONS_NOT_FOUND","message":"Station(s) Not Found.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 19:21:35] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2101,"codeKey":"STATIONS_NOT_FOUND","message":"Station(s) Not Found.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 19:21:35] Solver.ERROR: terminating routeTimetable  
+[2018-08-11 19:22:03] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2101,"codeKey":"STATIONS_NOT_FOUND","message":"Station(s) Not Found.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 19:22:03] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2101,"codeKey":"STATIONS_NOT_FOUND","message":"Station(s) Not Found.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-11 19:22:03] Solver.ERROR: terminating routeTimetable  
+[2018-08-12 10:23:28] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2101,"codeKey":"STATIONS_NOT_FOUND","message":"Station(s) Not Found.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-12 10:23:28] Solver.ERROR: routeTimetable: error from api [{"version":"2","error":{"code":2101,"codeKey":"STATIONS_NOT_FOUND","message":"Station(s) Not Found.","status":404,"errors":[]},"result":null,"meta":{"offset":null,"limit":null,"count":null}}] 
+[2018-08-12 10:23:28] Solver.ERROR: terminating routeTimetable  
