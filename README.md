@@ -1,14 +1,41 @@
 
-## Старт в науку 2019
+## Gallop API
 
-**Дата защиты:** 4 марта 2019.
+An API to build complex routes across the Europe using heuristics and stuff.
 
-**Название:** Gallop API: проблема генерации комплексных туристических маршрутов
+### Features
 
-Сайт проекта: [gallop.mrgeorgeous.com](http://gallop.mrgeorgeous.com)
+* Time spans for cities
+* Heuristics to define optimal solution
+* BusRadar.com & Hostelbookers.com providers support
 
-
-## CODE admission challenge
+### Example
+```php
+$data = array(
+        'towns' =>  array(
+            'Warsaw' => [ 'mode' => 'start-end'],
+            'Gdansk' => [   
+                'min' => Problem::I('12h'),
+                'max' => Problem::I('24h')
+            ],
+            'Berlin' => [   
+                'min' => Problem::I('18h'),
+                'max' => Problem::I('30h')
+            ]   
+        ),
+        'rules' => array(
+            'start' => Carbon::now()->addDays(1)->toDateTimeString() ,
+            'lastTravelHour' => 0,
+            'firstTravelHour' => 6,
+            'dorms' => true,
+            'advanced' => [
+                'Price' => NULL,
+                'MinTransportDuration' => NULL,
+                /*'LessDayTrips' => NULL*/
+            ]
+        )
+    );
+```
 
 **Start date:** 2nd August 2018.
 
@@ -17,16 +44,5 @@
 **Title:** Gallop Travelling API Solution
 
 **Mission statement:** Journey planning must be more simple for tourist. Digital solutions should be used to provide relevant and stoic ways of travelling. My API is created to start realising this problem.
-
-**Project Article:**
-
-*High quality* (≈ 8 MB) – recommended for good pictures
-
-https://mrgeorgeous.com/cloud/code/CODE-q-best.pdf
-
-*Normal quality* (≈ 1 MB)
-
-https://mrgeorgeous.com/cloud/code/CODE-q-norm.pdf
-
 
 
